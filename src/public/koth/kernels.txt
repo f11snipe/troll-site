@@ -35,3 +35,4 @@ hackers: 4.15.0-99-generic
 -- Ubuntu 20 kernels
 ----------------------------------
 h1-hard: 5.4.0-1037-aws
+fireworks: 5.4.0-1029-aws
